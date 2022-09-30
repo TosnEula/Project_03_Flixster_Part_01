@@ -41,6 +41,7 @@
         android:ellipsize="end"
         app:layout_constraintHorizontal_bias="0"
         android:fontFamily="sans-serif-medium"
+        android:textColor="@color/black"
         app:layout_constrainedWidth="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/movieImage"
